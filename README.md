@@ -1,6 +1,6 @@
-# Calendar
+# Almanac
 
-Calendar is a powerful and flexible app which is the best option for displaying your calendar. This project will support day view, week view, schedule view ,month view ,year view and timeline view.
+Almanac is a powerful and flexible package which is the best option for displaying your calendar. This project will support day view, week view, schedule view ,month view ,year view and timeline view.
  
 
 ### Working with view

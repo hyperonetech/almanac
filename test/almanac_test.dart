@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:calendar/calendar.dart';
+import 'package:almanac/almanac.dart';
 
 void main() {
   test('adds one to input values', () {
