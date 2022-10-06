@@ -1,39 +1,33 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Calendar
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+Calendar is a powerful and flexible app which is the best option for displaying your calendar. This project will support day view, week view, schedule view ,month view ,year view and timeline view.
+ 
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+### Working with view
 
 ```dart
-const like = 'sample';
+// Set up view for the calendar
+ 
 ```
 
-## Additional information
+### Working with controller
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+```dart
+// initilize controller and state
+ 
+```
+ 
+ 
+## Credits
+
+This project is supported by the amazing open source community of [GitHub contributors](https://github.com/hyperonetech/calendar/). Thank you!
+
+## Tutorials
+ Yet to upload
+ 
+## Feature support
+
+| Feature                        | Day.    | Week| Month | Term | Schedule | Timeline |
+| ------------------------------ | :-----: | :-: | :---: | :-: | :-----: | :---: |
+| Structure                | ✅      | ✅  | ✅    | ✅  | ✅      | ✅    |
+ 
